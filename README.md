@@ -1,6 +1,6 @@
-<h2><center>Hi there, Welcome to my Github!, I'm David Peña <img src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/cat-dev.gif" width="90"> </center></h2>
+<h2><center>Hi there, Welcome to my Github!, I'm David Peña <img src="assets/cats/cat-dev.gif" width="90"> </center></h2>
 
-I'm a Backend Developer, 
+I'm a Backend Developer, Pet Lover, Landscape Photographer, Swimmer. <img src="assets/cats/cat.gif" width="100">
 
 
 
