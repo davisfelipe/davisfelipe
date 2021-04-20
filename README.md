@@ -1,8 +1,18 @@
 <h2><center>Hi there 👋, Welcome to my Github!, I'm David Peña <img src="assets/cats/cat-dev.gif" width="90"> </center></h2>
 
-I'm a Backend Developer, Pet Lover, Landscape Photographer, Swimmer. 
+## About Me
 
-<h2>Where to find me? 🔍</h2>
+I'm a Backend Developer and Software Enginner, I develop in Python and love explore and learn tech stacks and tools to build new cool things. i love containers applications and of course K8S
+
+## More About Me
+* I'm From Colombia 🇨🇴
+* I'm currently working at Intergrupo
+* I'm pet lover 🐶🐱🐰
+* I love travel to the Caribean ✈🏝
+* I'm currently learnging Golang
+* I like Linux and Open Source Projects
+
+## Where to find me? 🔍
 
 <a href="https://www.instagram.com/davis_felipe">
   <img align="left" alt="David Peña | Instragram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -16,20 +26,3 @@ I'm a Backend Developer, Pet Lover, Landscape Photographer, Swimmer.
 <a href="https://music.youtube.com/channel/UCXlatp0alW_fJWSKBw_IYhg">
   <img align="left" alt="David Peña | Youtube" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
 </a>
-
-
-
-<!--
-**davisfelipe/davisfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
