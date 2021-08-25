@@ -9,7 +9,7 @@ I'm a Backend Developer and Software Enginner, I develop in Python and love expl
 * I'm currently working at Intergrupo
 * I'm pet lover 🐶🐱🐰
 * I love travel to the Caribean ✈🏝
-* I'm currently learnging Golang
+* I'm currently learning Golang
 * I like Linux and Open Source Projects
 
 ## Where to find me? 🔍
