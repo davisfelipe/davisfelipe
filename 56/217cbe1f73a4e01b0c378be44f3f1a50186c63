@@ -1,0 +1,19 @@
+.github/workflows/snake.yml
+  s_ed21653fbf54f6::t_519940fb7a34a2 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "56217cbe1f73a4e01b0c378be44f3f1a50186c63",
+  "prompts": {},
+  "sessions": {
+    "s_ed21653fbf54f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "714517c6-2b37-4f89-831c-f9eaece65ca1",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "David Felipe Pena Huertas <david.pena@mercadolibre.com.co>"
+    }
+  }
+}
