@@ -1,0 +1,21 @@
+README.md
+  s_ed21653fbf54f6::t_152caa986fbb38 93-94
+.github/workflows/profile-summary-cards.yml
+  s_ed21653fbf54f6::t_2e1b19865907de 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "248d303e2701310dc1c8a5aa450e3dcac5900e96",
+  "prompts": {},
+  "sessions": {
+    "s_ed21653fbf54f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "714517c6-2b37-4f89-831c-f9eaece65ca1",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "David Felipe Pena Huertas <david.pena@mercadolibre.com.co>"
+    }
+  }
+}
