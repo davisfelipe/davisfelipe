@@ -90,8 +90,8 @@ $ github-stats --user davisfelipe
 ```
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=davisfelipe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisfelipe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </div>
 
 ---
